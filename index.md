@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/pics/aniket_profile.jpg">
+<img style="float: right; width: 15%; padding: 5px;" src=" {{ site.url }}/pics/aniket_profile.jpg">
 
 My name is Aniket Bhatia, and I am a final year student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
 
@@ -21,7 +21,7 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Sep 2020:</b></td><td>Soon to come!.</td></tr>
+<tr><td><b>Sep 2020:</b></td><td>Soon to come!</td></tr>
 <!-- <tr><td><b>Sep 2020:</b></td><td>new <a href="https://arxiv.org/abs/2010.05700">paper</a> on paraphrasing for unsupervised style transfer to appear at EMNLP 2020. Check out a live demo and the codebase <a href="http://style.cs.umass.edu">here</a>.</td></tr> -->
 <!-- <tr><td><b>Sep 2020:</b></td><td>I am excited to share a new bird photography webpage! Check the <a href="{{ site.url }}/birding">Birding</a> tab.</td></tr>
 <tr><td><b>Jun 2020:</b></td><td>I was recognized as an <a href="https://www.aclweb.org/anthology/2020.acl-main.0.pdf#page=25">outstanding reviewer</a> for ACL 2020!</td></tr>
