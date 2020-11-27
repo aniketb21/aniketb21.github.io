@@ -3,15 +3,17 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
+<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/pics/aniket_profile.jpg">
 
-My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
+My name is Aniket Bhatia, and I am a final year student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
+
+<!-- My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
 
 I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've spent some excellent summers at [Google Brain](https://research.google/teams/brain) (Summer 2020), [Google AI Language](https://ai.google/research/teams/language/) (Summer 2019), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. To get an insight on my professional life so far, you can have a look at my [CV]({{ site.url }}/cv). I'm happy to get in touch at [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu).
 
-I [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)!
+I [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)! -->
 
 #### Updates
 
@@ -19,8 +21,9 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Sep 2020:</b></td><td>new <a href="https://arxiv.org/abs/2010.05700">paper</a> on paraphrasing for unsupervised style transfer to appear at EMNLP 2020. Check out a live demo and the codebase <a href="http://style.cs.umass.edu">here</a>.</td></tr>
-<tr><td><b>Sep 2020:</b></td><td>I am excited to share a new bird photography webpage! Check the <a href="{{ site.url }}/birding">Birding</a> tab.</td></tr>
+<tr><td><b>Sep 2020:</b></td><td>Soon to come!.</td></tr>
+<!-- <tr><td><b>Sep 2020:</b></td><td>new <a href="https://arxiv.org/abs/2010.05700">paper</a> on paraphrasing for unsupervised style transfer to appear at EMNLP 2020. Check out a live demo and the codebase <a href="http://style.cs.umass.edu">here</a>.</td></tr> -->
+<!-- <tr><td><b>Sep 2020:</b></td><td>I am excited to share a new bird photography webpage! Check the <a href="{{ site.url }}/birding">Birding</a> tab.</td></tr>
 <tr><td><b>Jun 2020:</b></td><td>I was recognized as an <a href="https://www.aclweb.org/anthology/2020.acl-main.0.pdf#page=25">outstanding reviewer</a> for ACL 2020!</td></tr>
 <tr><td><b>May 2020:</b></td><td>started my summer internship at <a href="https://research.google/teams/brain/">Google Brain</a>, where I will be working with <a href="https://sites.google.com/site/royaurko">Aurko Roy</a></td></tr>
 <tr><td><b>Apr 2020:</b></td><td>talk at <a href="https://www.research.ibm.com/">IBM research</a> on model extraction attacks on BERT (<a href="https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit">slides</a>)</td></tr>
@@ -40,4 +43,4 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <tr><td><b>Aug 2018:</b></td><td> graduated from IIT Bombay, receiving the Sharad Maloo Memorial Gold Medal</td></tr>
 <tr><td><b>Jul 2018:</b></td><td> new <a href="https://arxiv.org/abs/1807.06234">preprint</a> on hierarchical multitask learning for speech recognition</td></tr>
 <tr><td><b>Jun 2018:</b></td><td> new blogs on <a href="2018/05/29/grad-resources.html">grad resources</a>, <a href="2018/06/04/cs-opportunities.html">IIT Bombay CS opportunities</a> and <a href="2018/06/05/crowd-sourcing.html">crowdsourcing</a></td></tr>
-<tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr>
+<tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr> -->
