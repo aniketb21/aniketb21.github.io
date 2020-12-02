@@ -5,10 +5,12 @@ permalink: /research/
 ---
 Soon to come!
 
-ssss
+
 
 RF Wireless Transmitter and Rec. [report]({{ site.url }}/reports/EDL.pdf)
-
+DDP : [report]({{ site.url }}/reports/DDP.pdf)
+Color Norm: [report]({{ site.url }}/reports/Color_Norm.pdf)
+Path Planning [report]({{ site.url }}/reports/Wavelets.pdf)
 
 #### **Research Papers**
 
