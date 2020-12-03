@@ -6,6 +6,7 @@ layout: page
 <img style="float: right; width: 30%; padding: 5px;" src=" {{ site.url }}/pics/Aniket_close_up.jpg">
 
 I am a final year student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
+
 I aim to develop healthcare technologies and have a positive impact on people's lives.
 
 
