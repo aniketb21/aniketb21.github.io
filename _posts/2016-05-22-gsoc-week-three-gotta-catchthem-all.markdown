@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title:  "GSoC Week Three - Gotta Catch'em All!"
 date:   2016-05-22 11:39:55 +0530
 tags: gsoc
