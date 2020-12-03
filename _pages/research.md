@@ -6,11 +6,19 @@ permalink: /research/
 Soon to come!
 
 
-
-RF Wireless Transmitter and Rec. [report]({{ site.url }}/reports/EDL.pdf)
 DDP : [report]({{ site.url }}/reports/DDP.pdf)
 Color Norm: [report]({{ site.url }}/reports/Color_Norm.pdf)
 Path Planning [report]({{ site.url }}/reports/Wavelets.pdf)
+
+
+**RF Real-Time Wireless Video Transmitting System**  [report]({{ site.url }}/reports/EDL.pdf) [video]
+Transmitting videos in real-time through obstacles like buildings is a difficult and yet an important task. Towards this end we develop an efficient lightweight system which transmits and receives PAL (Phase Alternate Line) videos in real-time and is capable of functioning robustly even in the presence of obstacles.
+We designed subsystems ranging from power boosters, low noise amplification stage to the architectures of upconverter and downconverter. These were then integrated on PCBs for transmitter, receiver and local oscillator.
+This was presented to the Indian Army owing to its efficacy.
+
+**Solving IQ Imbalance in Optical Receivers**
+
+
 
 #### **Research Papers**
 
