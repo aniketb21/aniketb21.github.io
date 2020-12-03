@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: post
 title: About
-permalink: /about/
+permalink: /CV/about/
 ---
 
 My name is Aniket Bhatia, and I am a final year student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
+
+
 
 
 <!-- My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD student at [University of Massachusetts Amherst](http://cs.umass.edu/) in the College for Information and Computer Science. I work with [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) on problems in text generation and the security & privacy of modern NLP systems. Currently, I am interning at the [Google Brain](https://research.google/teams/brain) team with [Aurko Roy](https://sites.google.com/site/royaurko).
