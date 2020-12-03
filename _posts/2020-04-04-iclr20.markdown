@@ -2,7 +2,7 @@
 layout: post
 title:  "Model Extraction Attacks on BERT - Project Page"
 tags: nlp research security model extraction stealing bert ML
-image: ({{ site.url }}/assets/toss/extraction_squad_small.png)
+image: ({{ site.url }}/pics/puppy.jpg)
 ---
 
 ![squad-extraction]({{ site.url }}/assets/toss/extraction_squad_small.png)
