@@ -6,7 +6,7 @@ permalink: /research/
 
 Following is a list of research projects (in no particular order) that I undertook during my time at IIT Bombay.
 
-**RF Real-Time Wireless Video Transmitting System**  [(report)]({{ site.url }}/reports/EDL.pdf) (video)
+**RF Real-Time Wireless Video Transmitting System**  [(report)]({{ site.url }}/reports/EDL.pdf)
 
 Transmitting videos in real-time through obstacles like buildings is a difficult and yet an important task. Towards this end we develop an efficient lightweight system which transmits and receives PAL (Phase Alternate Line) videos in real-time and is capable of functioning robustly even in the presence of obstacles.
 We designed custom subsystems ranging from power boosters, low noise amplification stage to the architectures of upconverter and downconverter. These were then integrated on PCBs for transmitter, receiver and local oscillator.
