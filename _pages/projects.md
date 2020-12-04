@@ -18,7 +18,7 @@ Recognizing hand gestures has become quite an important task to build user-frien
 
 Optical Tweezers are devices which are used to move microscopic objects like atoms, bacteria, droplets in a manner similar to what tweezers do. It consists of a highly focused LASER beam. But these devices are 'very' expensive and can cost around $10,000, hence the motivation to develop a low cost alternative. This device involves a microscope, and since none of the existing models were compatible with the setup, a microscope (~400x) was developed from scratch, using components costing about $8. A DVD drive was used as a source for the laser for optical trapping, and its intensity was controlled using a circuit using a voltage regulator. Translational motion of the LASER was achieved by a bi-directional current.
 
-The microscope individually comes in three models and will be provided to underprivileged schools enabling a better quality of education.
+The microscope individually comes in three models and will be provided to underprivileged schools to enable a better quality of education.
 
 
 **Noise Cancelling Headphones** [(report)]({{ site.url }}/reports/Noise_Cancelling_Headphones_Project.pdf)
