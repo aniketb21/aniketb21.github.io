@@ -12,11 +12,7 @@ I maintain a list of my research projects under the [Research]({{ site.url }}/re
 
 I aim to develop healthcare technologies and have a positive impact on people's lives. For the same, I wish to obtain an M.S. qualification.
 
-<style>
-  .bottom-three {
-     margin-bottom: 3cm;
-  }
-</style>
+<br/><br/>
 
 <!-- My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
 
