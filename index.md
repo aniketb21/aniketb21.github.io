@@ -6,7 +6,9 @@ layout: page
 <img style="float: right; width: 30%; padding: 5px;" src=" {{ site.url }}/pics/Aniket_close_up.jpg">
 
 
-I am a final year student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
+Hello there! Welcome to my homepage.
+
+My name is Aniket Bhatia and I am a final year student at the [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
 
 I maintain a list of my research projects under the [Research]({{ site.url }}/research) tab. Additionally, do have a look at my other projects under the [Projects]({{ site.url }}/projects) tab.
 
