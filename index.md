@@ -10,7 +10,7 @@ I am a final year student at [Indian Institute of Technology Bombay](http://www.
 
 I aim to develop healthcare technologies and have a positive impact on people's lives. For the same I wish to obtain an M.S. qualification.
 
-
+I maintain a list of my research projects under the [Research]({{ site.url }}/research) tab. Additionally, do have a look at my other projects under the [Projects]({{ site.url }}/projects) tab
 
 My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
 
