@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: About
 permalink: /CV/about/
@@ -18,4 +18,4 @@ In Summer 2017, I worked on end-to-end speech recognition at [TTIC](http://ttic.
 
 I used to lead a club at IIT Bombay, namely [The Web and Coding Club](https://www.facebook.com/wncc.iitb/), where we help people get started with code. In my free time I contribute to [StackOverflow](http://stackoverflow.com/users/5080995/martianwars) and to our club's [wiki](http://wncc-iitb.org/wiki), a beginner's programming guide. I love cycling, and I have a cool little [collection]({{ site.url }}/assets/rubik.jpg) of Rubiks puzzles! Unfortunately, I'm not so good at solving them!
 
-Some people on the internet (especially on Mozilla's IRC) know me as *martianwars*. -->
+Some people on the internet (especially on Mozilla's IRC) know me as *martianwars*. --> -->
