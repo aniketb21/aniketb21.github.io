@@ -3,22 +3,22 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 30%; padding: 5px;" src=" {{ site.url }}/pics/Aniket_close_up.jpg">
+<img style="float: right; width: 40%; padding: 5px;" src=" {{ site.url }}/pics/Aniket_close_up.jpg">
 
 
 I am a final year student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
 
-I aim to develop healthcare technologies and have a positive impact on people's lives. For the same I wish to obtain an M.S. qualification.
+I maintain a list of my research projects under the [Research]({{ site.url }}/research) tab. Additionally, do have a look at my other projects under the [Projects]({{ site.url }}/projects) tab.
 
-I maintain a list of my research projects under the [Research]({{ site.url }}/research) tab. Additionally, do have a look at my other projects under the [Projects]({{ site.url }}/projects) tab
+I aim to develop healthcare technologies and have a positive impact on people's lives. For the same, I wish to obtain an M.S. qualification.
 
-My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
+<!-- My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
 
 I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've spent some excellent summers at [Google Brain](https://research.google/teams/brain) (Summer 2020), [Google AI Language](https://ai.google/research/teams/language/) (Summer 2019), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016).
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. To get an insight on my professional life so far, you can have a look at my [CV]({{ site.url }}/cv). I'm happy to get in touch at [kalpesh@cs.umass.edu](mailto:kalpesh@cs.umass.edu).
 
-I [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)!
+I [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)! -->
 
 #### Updates
 
