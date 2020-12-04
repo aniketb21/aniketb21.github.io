@@ -8,7 +8,7 @@ layout: page
 
 I am a final year student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
 
-I aim to develop healthcare technologies and have a positive impact on people's lives.
+I aim to develop healthcare technologies and have a positive impact on people's lives. For the same I wish to obtain an M.S. qualification.
 
 
 <!-- My name is Kalpesh Krishna, and I am a ~~second~~ third year PhD in Computer Science at [UMass Amherst](http://cs.umass.edu/) advised by Prof. [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/). I do my PhD research in natural language processing. I also co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/).
