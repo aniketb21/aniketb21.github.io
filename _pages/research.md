@@ -25,6 +25,8 @@ Creating annotations for nuclei segmentation in histopathology images is a very 
 **Color Normalization for H&E Stained Images**  [preprint](https://arxiv.org/abs/2011.15000)
 Labs often follow different protocols for H&E (Hematoxylin and Eosin) tissue cell staining or the process could involve some errors. In either case training on one dataset and testing on another (either from a different lab or with errors) can drastically affect the performance of the model. We develop a fully convolutional self-supervised technique for circumventing the issues caused by a difference and/or errors in cell staining. The pipeline uses a set of WSIs (Whole Slide Images) as a target domain. Our pipeline can be used as an independent pre-processing block and will prevent the task specific network after it to underperform because of staining errors and/or differences.
 
+This work has been submitted to the IEEE International Symposium on Biomedical Imaging (ISBI) 2021 and is under review.
+
 ****
 
 
