@@ -3,34 +3,35 @@ layout: page
 title: Research
 permalink: /research/
 ---
-Soon to come!
 
-
-DDP :
-Color Norm: [report]({{ site.url }}/reports/Color_Norm.pdf)
-Path Planning [report]({{ site.url }}/reports/Wavelets.pdf)
-
+Following is a list of research projects (in no particular order) that I undertook during my time at IIT Bombay.
 
 **RF Real-Time Wireless Video Transmitting System**  [report]({{ site.url }}/reports/EDL.pdf) [video]
+
 Transmitting videos in real-time through obstacles like buildings is a difficult and yet an important task. Towards this end we develop an efficient lightweight system which transmits and receives PAL (Phase Alternate Line) videos in real-time and is capable of functioning robustly even in the presence of obstacles.
 We designed custom subsystems ranging from power boosters, low noise amplification stage to the architectures of upconverter and downconverter. These were then integrated on PCBs for transmitter, receiver and local oscillator.
 This was presented to the Indian Army owing to its efficacy.
 
 **Solving IQ Imbalance in Optical Receivers**
+
 IQ imbalance occurs when the sine and cosine wave from the local oscillator are not perfectly 90 degrees apart or/and do not have the same amplitude. Performaccne for the existing joint equalization and IQ imbalance compensation was tested with changing adaptive algorithms (LMS, RLMS, NLMS), filter sizes used in the algorithm and the algorithms used for carrier phase estimation. We are exploring ways and conducting experiments to develop a method for IQ imbalance which can achieve a faster convergence to the optimal IQ imbalance angle.
 
 **A Path to being Ground Truth Free** [report]({{ site.url }}/reports/DDP.pdf)
+
 Creating annotations for nuclei segmentation in histopathology images is a very effort and time intensive process. This has resulted in a lack of complete datasets (i.e. images are available but no masks). Our aim in this research project is to remove dependence on the available ground truth masks. W use synthetic image generation to achieve a baseline performance on the model used for performance analysis. We then use a interactive segmentation and synthetic image generation in a cyclic way to achieve the required performance without using the ground truth masks. Experiments are still being conducted.
 
 **Color Normalization for H&E Stained Images**  [preprint](https://arxiv.org/abs/2011.15000)
+
 Labs often follow different protocols for H&E (Hematoxylin and Eosin) tissue cell staining or the process could involve some errors. In either case training on one dataset and testing on another (either from a different lab or with errors) can drastically affect the performance of the model. We develop a fully convolutional self-supervised technique for circumventing the issues caused by a difference and/or errors in cell staining. The pipeline uses a set of WSIs (Whole Slide Images) as a target domain. Our pipeline can be used as an independent pre-processing block and will prevent the task specific network after it to underperform because of staining errors and/or differences.
 
 This work has been submitted to the IEEE International Symposium on Biomedical Imaging (ISBI) 2021 and is under review.
 
-****
+**Efficient Multiresolution Path Planning** [report]({{ site.url }}/reports/Wavelets.pdf)
+
+Path planning finds applications in a lot of tasks like navigating robots and autonomous vehicles. However, path planning algorithms can become very computationally expensive. We develop a multiresolution path planning algorithm (path being represented by a random graph) and achieves an exponential speedup.
 
 
-#### **Research Papers**
+<!-- #### **Research Papers**
 
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700)  
 *Kalpesh Krishna*, John Wieting, Mohit Iyyer  
@@ -121,4 +122,4 @@ As a part of my RnD project at [IIT Bombay](http://www.iitb.ac.in/), I am releas
 * Hindi (denoted by `hi`)
 * PTB (denoted by `ptb`)
 
-All these datasets are compatible with [SRILM](http://www.speech.sri.com/projects/srilm/). Files marked with `unk` have replaced all singletons with `<unk>` tokens. Files marked with `char` are character versions. All datasets have a `train`, `valid` and `test` file. You will find the dataset [here](https://drive.google.com/file/d/0B5Y_SiDYwIObaE52dmZ0YVFXckU/view?usp=sharing).
+All these datasets are compatible with [SRILM](http://www.speech.sri.com/projects/srilm/). Files marked with `unk` have replaced all singletons with `<unk>` tokens. Files marked with `char` are character versions. All datasets have a `train`, `valid` and `test` file. You will find the dataset [here](https://drive.google.com/file/d/0B5Y_SiDYwIObaE52dmZ0YVFXckU/view?usp=sharing). -->

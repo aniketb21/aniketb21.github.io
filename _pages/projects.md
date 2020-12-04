@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+Following is a list of projects (in no particular order) that I did during my time at IIT Bombay.
 
 
 **ECG Amplifier** [(report)]({{ site.url }}/reports/ECG.pdf) [(video)]({{ site.url }}/reports/ECG.mp4)
