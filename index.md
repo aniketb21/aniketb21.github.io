@@ -25,8 +25,8 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Dec 2020:</b></td><td>Preprint to our work in Color Normalization to [ISBI 2021](https://biomedicalimaging.org/2021/) now available [here](https://arxiv.org/abs/2011.15000)</td></tr>
-<tr><td><b>Oct 2020:</b></td><td>Submitted our work in Color Normalization to [ISBI 2021](https://biomedicalimaging.org/2021/)</td></tr>
+<tr><td><b>Dec 2020:</b></td><td>Preprint to our work in Color Normalization to <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a> now available <a href="https://arxiv.org/abs/2011.15000">here</a></td></tr>
+<tr><td><b>Oct 2020:</b></td><td>Submitted our work in Color Normalization to <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a></td></tr>
 <tr><td><b>Aug 2020:</b></td><td>Awarded the Institute Academic Prize for standing 1st in my batch for the year 2019-2020</td></tr>
 <tr><td><b>Dec 2019:</b></td><td>Our work in developing an RF real-time wireless video transmission and reception was presented to the Indian Army </td></tr>
 <tr><td><b>Oct 2019:</b></td><td>Represented India at the [Young Asian Leaders Forum](https://www.temasekshophouse.org.sg/post/sharing-learning-journeys-at-tf-learn-2019-young-asian-leaders-forum)</td></tr>
