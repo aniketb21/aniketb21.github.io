@@ -5,6 +5,7 @@ layout: page
 
 <img style="float: right; width: 30%; padding: 5px;" src=" {{ site.url }}/pics/Aniket_close_up.jpg">
 
+
 I am a final year student at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
 
 I aim to develop healthcare technologies and have a positive impact on people's lives.
@@ -24,7 +25,14 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Dec 2020:</b></td><td>Preprint to our work in Color Normalization to ISBI 2021 now available [here]</td></tr>
+<tr><td><b>Dec 2020:</b></td><td>Preprint to our work in Color Normalization to [ISBI 2021](https://biomedicalimaging.org/2021/) now available [here](https://arxiv.org/abs/2011.15000)</td></tr>
+<tr><td><b>Oct 2020:</b></td><td>Submitted our work in Color Normalization to [ISBI 2021](https://biomedicalimaging.org/2021/)</td></tr>
+<tr><td><b>Aug 2020:</b></td><td>Awarded the Institute Academic Prize for standing 1st in my batch for the year 2019-2020</td></tr>
+<tr><td><b>Dec 2019:</b></td><td>Our work in developing an RF real-time wireless video transmission and reception was presented to the Indian Army </td></tr>
+<tr><td><b>Oct 2019:</b></td><td>Represented India at the [Young Asian Leaders Forum](https://www.temasekshophouse.org.sg/post/sharing-learning-journeys-at-tf-learn-2019-young-asian-leaders-forum)</td></tr>
+<tr><td><b>Jul 2019:</b></td><td>Started my semester exchange at [National University of Singapore (NUS)](http://nus.edu.sg/)</td></tr>
+
+
 <!-- <tr><td><b>Sep 2020:</b></td><td>new <a href="https://arxiv.org/abs/2010.05700">paper</a> on paraphrasing for unsupervised style transfer to appear at EMNLP 2020. Check out a live demo and the codebase <a href="http://style.cs.umass.edu">here</a>.</td></tr> -->
 <!-- <tr><td><b>Sep 2020:</b></td><td>I am excited to share a new bird photography webpage! Check the <a href="{{ site.url }}/birding">Birding</a> tab.</td></tr>
 <tr><td><b>Jun 2020:</b></td><td>I was recognized as an <a href="https://www.aclweb.org/anthology/2020.acl-main.0.pdf#page=25">outstanding reviewer</a> for ACL 2020!</td></tr>
