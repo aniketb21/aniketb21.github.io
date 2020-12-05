@@ -30,7 +30,7 @@ In today's busy and noisy world we like to go into a different zone while listen
 
 Recognizing the characters on a number plate finds use in many applications like for security purposes and book-keeping. In this project a system is implemented which provides a bounding box around the number plate and recognizes the characters. A customized CNN with cross-linkages and regression layers were used. The model was trained end-to-end for better performance.
 
-**Where's Waldo?**  [(report)]({{ site.url }}/reports/Waldo_Project_Report.pdf)
+**Where's Waldo?**  [(report)]({{ site.url }}/reports/Waldo_Project.pdf)
 
 The pages of the book 'Where's Waldo?' when scanned with a very high resolution constitute an extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were converted to HOG features. An SVM was trained at multiple scales for the final detection.
 
