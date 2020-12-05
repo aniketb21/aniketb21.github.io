@@ -35,9 +35,11 @@ I [blog]({{ site.url }}/archive) every now and then compiling my personal experi
 <tr><td><b>Dec 2020:</b></td><td>Preprint to our work on Color Normalization to <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a> now available <a href="https://arxiv.org/abs/2011.15000">here</a></td></tr>
 <tr><td><b>Oct 2020:</b></td><td>Submitted our work on Color Normalization to <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a></td></tr>
 <tr><td><b>Aug 2020:</b></td><td>Awarded the Institute Academic Prize for standing 1st in my batch for the year 2019-2020</td></tr>
-<tr><td><b>Dec 2019:</b></td><td>Our work in developing a real-time video transmission system was presented to the Indian Army </td></tr>
+<tr><td><b>Nov 2019:</b></td><td>Our work in developing a real-time video transmission system was presented to the Indian Army by the lab members</td></tr>
 <tr><td><b>Oct 2019:</b></td><td>Represented India at the <a href="https://www.temasekshophouse.org.sg/post/sharing-learning-journeys-at-tf-learn-2019-young-asian-leaders-forum">Young Asian Leaders Forum</a></td></tr>
 <tr><td><b>Jul 2019:</b></td><td>Started my semester exchange at <a href="http://nus.edu.sg/">National University of Singapore (NUS)</a></td></tr>
+<tr><td><b>May 2019:</b></td><td>Started my internship at <a href="https://www.qualcomm.com/">Qualcomm</a></td></tr>
+<tr><td><b>May 2019:</b></td><td>Demonstrated our working model for real-time video transmission system to the faculty at IITB</td></tr>
 
 
 <!-- <tr><td><b>Sep 2020:</b></td><td>new <a href="https://arxiv.org/abs/2010.05700">paper</a> on paraphrasing for unsupervised style transfer to appear at EMNLP 2020. Check out a live demo and the codebase <a href="http://style.cs.umass.edu">here</a>.</td></tr> -->
