@@ -26,7 +26,7 @@ The microscope individually comes in three models and will be provided to underp
 In today's busy and noisy world we like to go into a different zone while listening to music. However, more often than not the surrounding noise interferes us in this basic task as well. This motivates the need to have noise cancelling headphones. We design an appropriate closed loop control system for achieving noise cancelling, including designing appropriate gain stages and compensators.
 
 
-**Number Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
+**Licence Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
 
 Recognizing the characters on a number plate finds use in many applications like for security purposes and book-keeping. In this project a system is implemented which provides a bounding box around the number plate and recognizes the characters. A customized CNN with cross-linkages and regression layers were used. The model was trained end-to-end for better performance.
 
