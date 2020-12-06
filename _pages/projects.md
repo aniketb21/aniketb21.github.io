@@ -34,7 +34,7 @@ Recognizing the characters on a number plate finds use in many applications like
 
 The pages of the book 'Where's Waldo?' when scanned with a very high resolution constitute an extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were converted to HOG features. An SVM was trained at multiple scales for the final detection.
 
-**Object Tracking**
+**Object Tracking**  [(report)]({{ site.url }}/reports/Object_Tacking_Project.pdf)
 
 The ability to track objects has become an important element in various applications like tracking through CCTV cameras. In this project methods like mean-shift tracking and tracking using optical flow are explored. Then algorithms like the Hungarian Algorithm and a Kalman Filter (exploiting bounding boxes from YOLO) are explored.
 
@@ -50,7 +50,7 @@ In today's world data security has become an important issue. Using this as a mo
 
 Matching a person with his/her iris can be one technique for personal identification. We preprocessed the data by performing Adaptive Histogram Equalization, normalization and occlusion removal. Then we employed PCA (Principal Component Analysis) to reduce the dimensionality of the data and LDA (Linear Discriminant Analysis) to match the person with his/her iris.
 
-<!-- 
+<!--
 **Music Genre Classification** [(slides)]({{ site.url }}/reports/Music_Genre_Project.pdf)
 
 The project aim was to classify music into 6 distinct genres. We used the MFCC coefficients, extracted from the music, as trainable features. We compared the results using CNNs, SVM and clustering techniques. -->
