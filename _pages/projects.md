@@ -50,7 +50,7 @@ In today's world data security has become an important issue. Using this as a mo
 
 Matching a person with his/her iris can be one technique for personal identification. We preprocessed the data by performing Adaptive Histogram Equalization, normalization and occlusion removal. Then we employed PCA (Principal Component Analysis) to reduce the dimensionality of the data and LDA (Linear Discriminant Analysis) to match the person with his/her iris.
 
-
+<!-- 
 **Music Genre Classification** [(slides)]({{ site.url }}/reports/Music_Genre_Project.pdf)
 
-The project aim was to classify music into 6 distinct genres. We used the MFCC coefficients, extracted from the music, as trainable features. We compared the results using CNNs, SVM and clustering techniques.
+The project aim was to classify music into 6 distinct genres. We used the MFCC coefficients, extracted from the music, as trainable features. We compared the results using CNNs, SVM and clustering techniques. -->
