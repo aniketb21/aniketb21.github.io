@@ -34,6 +34,10 @@ Recognizing the characters on a number plate finds use in many applications like
 
 The pages of the book 'Where's Waldo?' when scanned with a very high resolution constitute an extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were converted to HOG features. An SVM was trained at multiple scales for the final detection.
 
+**Object Tracking**
+
+The ability to track objects has become an important element in various applications like tracking through CCTV cameras. In this project methods like mean-shift tracking and tracking using optical flow are explored. Then algorithms like the Hungarian Algorithm and a Kalman Filter (exploiting bounding boxes from YOLO) are explored.
+
 **Multistage RISC Microprocessor**  [(code)](https://drive.google.com/drive/folders/1Zbw7J2eEmuA_8XP_wJhxnPRnP_DFQRPN?usp=sharing)
 
 Designed and implemented a 6-stage multicycle pipelined processor on an FPGA. Instructions from the Turing complete IITB-RISC instruction set were included. A logic for hazard detection, data forwarding, stalling, etc. was included in the pipeline.
