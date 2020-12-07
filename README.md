@@ -1,4 +1,4 @@
-## Contributing to the Blog
+<!-- ## Contributing to the Blog
 
 Feel free to send a pull request contributing to the blogposts in my personal website. All blogposts are located in `_posts`, which are arranged according to date. Make sure you add a line in the first section specifying your name and contribution, such as [this blog](_posts/2017-05-17-applying-for-j1.markdown) file. Images are typically located in `assets`.
 
@@ -13,4 +13,4 @@ Here is a list of the more popular blogs -
 
 ## Forking the Website
 
-Feel free to fork the website. It's the default Jekyll template with minor CSS modification. However, make sure you edit the analytics ID in [`_includes/analytics.html`](_includes/analytics.html) so that your website's views are not logged into my account.
+Feel free to fork the website. It's the default Jekyll template with minor CSS modification. However, make sure you edit the analytics ID in [`_includes/analytics.html`](_includes/analytics.html) so that your website's views are not logged into my account. -->
