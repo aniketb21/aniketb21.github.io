@@ -14,6 +14,7 @@ I maintain a list of my research projects under the [Research]({{ site.url }}/re
 
 I aim to develop healthcare technologies and have a positive impact on people's lives. For the same, I wish to obtain an M.S. qualification.
 
+Thanks for stopping by!
 <p></p>
 <br>
 <p></p>
