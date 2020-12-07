@@ -16,9 +16,9 @@ Recognizing hand gestures has become quite an important task to build user-frien
 
 **Low Cost Optical Tweezer**  [(images)]({{ site.url }}/reports/Low_Cost_Optical_Tweezer.pdf)
 
-Optical Tweezers are devices which are used to move microscopic objects like atoms, bacteria, droplets in a manner similar to what tweezers do. It consists of a highly focused LASER beam. But these devices are 'very' expensive and can cost around $10,000, hence the motivation to develop a low cost alternative. This device involves a microscope, and since none of the existing models were compatible with the setup, a microscope (~400x) was developed from scratch, using components costing about $8. A DVD drive was used as a source for the laser for optical trapping, and its intensity was controlled using a circuit using a voltage regulator. Translational motion of the LASER was achieved by a bi-directional current.
+Optical Tweezers are devices which are used to move microscopic objects like atoms, bacteria, droplets in a manner similar to what tweezers do. It consists of a highly focused LASER beam. But these devices are very expensive and can cost around $10,000, hence the motivation to develop a low cost alternative. This device involves a microscope, and since none of the existing models were compatible with the setup, a microscope (~400x) was developed from scratch, using components costing about $8. A DVD drive was used as a source for the laser for optical trapping, and its intensity was controlled using a circuit using a voltage regulator. Translational motion of the LASER was achieved by a bi-directional current.
 
-The microscope individually comes in three models and will be provided to underprivileged schools to enable a better quality of education.
+The microscope, individually, comes in three models and will be provided to underprivileged schools to enable a better quality of education.
 
 
 **Noise Cancelling Headphones** [(report)]({{ site.url }}/reports/Noise_Cancelling_Headphones_Project.pdf)
@@ -32,7 +32,7 @@ Recognizing the characters on a number plate finds use in many applications like
 
 **Where's Waldo?**  [(report)]({{ site.url }}/reports/Waldo_Project.pdf)
 
-The pages of the book 'Where's Waldo?' when scanned with a very high resolution constitute an extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were converted to HOG features. An SVM was trained at multiple scales for the final detection.
+The pages of the book 'Where's Waldo?' when scanned with a very high resolution, serve as a good example of extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were then converted to HOG features. An SVM was trained at multiple scales for the final detection.
 
 **Object Tracking**  [(report)]({{ site.url }}/reports/Object_Tacking_Project.pdf)
 
