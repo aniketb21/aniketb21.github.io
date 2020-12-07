@@ -44,7 +44,7 @@ Designed and implemented a 6-stage multicycle pipelined processor on an FPGA. In
 
 **Steganography using Wavelet Transform** [(slides)]({{ site.url }}/reports/Steganography_Project.pdf)
 
-In today's world data security has become an important issue. Using this as a motivation we developed a system for steganographic concealing of one data into another using discrete wavelet transform. We made the process of steganography more secure by adding a novel patch based algorithm. We presented out findings at the MHRD-TEQIP-KITE workshop for knowledge incubation.
+In today's world data security has become an important issue. Using this as a motivation we developed a system for steganographic concealing of one data into another using discrete wavelet transform. We made the process of steganography more secure by adding a novel patch based algorithm. We presented our findings at the MHRD-TEQIP-KITE workshop for knowledge incubation.
 
 **Iris Recognition**  [(slides)]({{ site.url }}/reports/Iris_Recog_Project.pdf)
 
