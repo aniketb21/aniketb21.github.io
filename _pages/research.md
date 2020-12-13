@@ -9,12 +9,13 @@ Following is a list of research projects (in no particular order) that I underto
 **RF Real-Time Wireless Video Transmitting System**  [(report)]({{ site.url }}/reports/EDL.pdf)
 
 Transmitting videos in real-time through obstacles like buildings is a difficult and yet an important task. Towards this end we develop an efficient lightweight system which transmits and receives PAL (Phase Alternate Line) videos in real-time and is capable of functioning robustly even in the presence of obstacles.
-We designed custom subsystems ranging from power boosters, low noise amplification stage to the architectures of upconverter and downconverter. These were then integrated on PCBs for transmitter, receiver and local oscillator.
+We designed custom subsystems ranging from power boosters, low noise amplification stage to the architectures of upconverter and downconverter, along with all the matching circuits. These were then integrated on PCBs for transmitter, receiver and local oscillator.
+
 This was presented to the Indian Army owing to its efficacy.
 
 **Solving IQ Imbalance in Optical Receivers**
 
-IQ imbalance occurs when the sine and cosine wave from the local oscillator are not perfectly 90 degrees apart or/and do not have the same amplitude. Performaccne for the existing joint equalization and IQ imbalance compensation was tested with changing adaptive algorithms (LMS, RLMS, NLMS), filter sizes used in the algorithm and the algorithms used for carrier phase estimation. We are exploring ways and conducting experiments to develop a method for IQ imbalance which can achieve a faster convergence to the optimal IQ imbalance angle.
+IQ imbalance occurs when the sine and cosine wave from the local oscillator are not perfectly 90 degrees apart or/and do not have the same amplitude. Performance for the existing joint equalization and IQ imbalance compensation was tested with changing adaptive algorithms (LMS, RLMS, NLMS), filter sizes used in the algorithm and the algorithms used for carrier phase estimation. We are exploring ways and conducting experiments to develop a method for IQ imbalance which can achieve a faster convergence to the optimal IQ imbalance angle.
 
 **A Path to being Ground Truth Free** [(report)]({{ site.url }}/reports/DDP.pdf)
 
