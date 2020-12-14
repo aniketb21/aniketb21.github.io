@@ -29,7 +29,7 @@ This work has been submitted to the IEEE International Symposium on Biomedical I
 
 **Efficient Multiresolution Path Planning** [(report)]({{ site.url }}/reports/Wavelets.pdf)
 
-Path planning finds applications in a lot of tasks like navigating robots and autonomous vehicles. However, path planning algorithms can become very computationally expensive. We develop a multiresolution path planning algorithm (path being represented by a random graph) and achieves an exponential speedup.
+Path planning finds applications in a lot of tasks like navigating robots and autonomous vehicles. However, path planning algorithms can become very computationally expensive. We develop a multiresolution path planning algorithm (path being represented by an arbitrary graph) and achieves an exponential speedup.
 
 
 <!-- #### **Research Papers**
