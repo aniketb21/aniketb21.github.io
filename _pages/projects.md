@@ -20,6 +20,8 @@ Optical Tweezers are devices which are used to move microscopic objects like ato
 
 The microscope, individually, comes in three models and will be provided to underprivileged schools to enable a better quality of education.
 
+Update (Dec 2020): Awarded the URA (Undergraduate Research Award) for developing the low cost microscope.
+
 
 **Noise Cancelling Headphones** [(report)]({{ site.url }}/reports/Noise_Cancelling_Headphones_Project.pdf)
 
