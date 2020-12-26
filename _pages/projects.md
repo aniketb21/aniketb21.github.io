@@ -3,6 +3,10 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
+{% include JB/setup %}
+
+
 Following is a list of projects (in no particular order) that I did during my time at IIT Bombay.
 
 
