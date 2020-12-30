@@ -29,16 +29,16 @@ The microscope, individually, comes in three models and will be provided to unde
 **Noise Cancelling Headphones** [(report)]({{ site.url }}/reports/Noise_Cancelling_Headphones_Project.pdf)
 
 In today's busy and noisy world we like to go into a different zone while listening to music. However, more often than not the surrounding noise interferes us in this basic task as well. This motivates the need to have noise cancelling headphones. We design an appropriate closed loop control system for achieving noise cancelling, including designing appropriate gain stages and compensators.
-
 <br/><br/>
 
 **License Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
 
 Recognizing the characters on a license plate finds use in many applications like for security purposes and book-keeping. In this project a system is implemented which provides a bounding box around the license plate and recognizes the characters. A customized CNN, with cross-linkages and regression layers, was used. The model was trained end-to-end, providing a better performance.
+<br/><br/>
 
 **Where's Waldo?**  [(report)]({{ site.url }}/reports/Waldo_Project.pdf)
 
-The pages of the book 'Where's Waldo?' when scanned with a very high resolution, serve as a good example of extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were then converted to HOG features. An SVM was trained at multiple scales for the final detection.
+The pages of the book 'Where's Waldo?' when scanned with a very high resolution, serve as a good example of extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were then converted to HOG features. An SVM was trained at multiple scales for the final detection.<br/><br/>
 
 **Object Tracking**  [(report)]({{ site.url }}/reports/Object_Tracking_Project.pdf)
 
