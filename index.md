@@ -6,7 +6,7 @@ layout: page
 <img style="float: right; width: 30%; padding: 5px;" src=" {{ site.url }}/pics/Aniket_close_up.jpg">
 
 
-Hello there! Welcome to my homepage.
+Hello! Welcome to my homepage.
 
 My name is Aniket Bhatia and I am a final year student at the [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
 
