@@ -31,13 +31,13 @@ IQ imbalance occurs when the sine and cosine wave from the local oscillator are 
 Creating annotations for nuclei segmentation in histopathology images is a very effort and time intensive process. This has resulted in a lack of complete datasets (i.e. images are available but no masks). Our aim in this research project is to remove dependence on the available ground truth masks. W use synthetic image generation to achieve a baseline performance on the model used for performance analysis. We then use a interactive segmentation and synthetic image generation in a cyclic way to achieve the required performance without using the ground truth masks. Experiments are still being conducted.
 <br/><br/>
 
-**Color Normalization for H&E Stained Images**  [(preprint)](https://arxiv.org/abs/2011.15000)
+**Color Normalization for H&E Stained Images**  [(paper)](https://arxiv.org/abs/2011.15000)
 
 *Guide: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)*
 
 Labs often follow different protocols for H&E (Hematoxylin and Eosin) tissue cell staining or the process could involve some errors. In either case training on one dataset and testing on another (either from a different lab or with errors) can drastically affect the performance of the model. We develop a fully convolutional self-supervised technique for circumventing the issues caused by a difference and/or errors in cell staining. The pipeline uses a set of WSIs (Whole Slide Images) as a target domain. Our pipeline can be used as an independent pre-processing block and will prevent the task specific network after it to underperform because of staining errors and/or differences.
 
-This work has been submitted to the IEEE International Symposium on Biomedical Imaging (ISBI) 2021 and is under review.
+*Update (Jan 2021)*: This work has been accepted at the IEEE International Symposium on Biomedical Imaging (ISBI) 2021.
 <br/><br/>
 
 **Efficient Multiresolution Path Planning** [(report)]({{ site.url }}/reports/Wavelets.pdf)
