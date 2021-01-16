@@ -27,9 +27,9 @@ The microscope, individually, comes in three models and will be provided to unde
 *Update (Dec 2020)*: Awarded the **URA** (**Undergraduate Research Award**) for developing the low-cost microscope.
 <br/><br/>
 
-**Noise Cancelling Headphones** [(report)]({{ site.url }}/reports/Noise_Cancelling_Headphones_Project.pdf)
+**Noise Canceling Headphones** [(report)]({{ site.url }}/reports/Noise_Canceling_Headphones_Project.pdf)
 
-In today's busy and noisy world we like to go into a different zone while listening to music. However, more often than not the surrounding noise interferes us in this basic task as well. This motivates the need to have noise cancelling headphones. We design an appropriate closed loop control system for achieving noise cancelling, including designing appropriate gain stages and compensators.
+In today's busy and noisy world we like to go into a different zone while listening to music. However, more often than not the surrounding noise interferes us in this basic task as well. This motivates the need to have noise canceling headphones. We design an appropriate closed loop control system for achieving noise canceling, including designing appropriate gain stages and compensators.
 <br/><br/>
 
 **License Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
