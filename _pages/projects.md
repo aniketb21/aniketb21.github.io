@@ -32,6 +32,11 @@ The microscope, individually, comes in three models and will be provided to unde
 In today's busy and noisy world we like to go into a different zone while listening to music. However, more often than not the surrounding noise interferes us in this basic task as well. This motivates the need to have noise canceling headphones. We design an appropriate closed loop control system for achieving noise canceling, including designing appropriate gain stages and compensators.
 <br/><br/>
 
+**Multistage RISC Microprocessor**  [(code)](https://github.com/shubhangb97/RISC-Processor-design)
+
+Designed and implemented a 6-stage multicycle pipelined processor on an FPGA. Instructions from the Turing complete IITB-RISC instruction set were included. A logic for hazard detection, data forwarding, stalling, etc. was included in the pipeline.
+<br/><br/>
+
 **License Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
 
 Recognizing the characters on a license plate finds use in many applications like for security purposes and book-keeping. In this project a system is implemented which provides a bounding box around the license plate and recognizes the characters. A customized CNN, with cross-linkages and regression layers, was used. The model was trained end-to-end, providing a better performance.
@@ -47,10 +52,6 @@ The pages of the book 'Where's Waldo?' when scanned with a very high resolution,
 The ability to track objects has become an important element in various applications like tracking through CCTV cameras. In this project methods like mean-shift tracking and tracking using optical flow are explored. For optical flow we explore the Lucas Kanade Algorithm and its improvement using an iterative and a pyramidal algorithm. Then algorithms like the Hungarian Algorithm and a Kalman Filter (exploiting bounding boxes from YOLO) are explored.
 <br/><br/>
 
-**Multistage RISC Microprocessor**  [(code)](https://github.com/shubhangb97/RISC-Processor-design)
-
-Designed and implemented a 6-stage multicycle pipelined processor on an FPGA. Instructions from the Turing complete IITB-RISC instruction set were included. A logic for hazard detection, data forwarding, stalling, etc. was included in the pipeline.
-<br/><br/>
 
 **Steganography using Wavelet Transform** [(slides)]({{ site.url }}/reports/Steganography_Project.pdf)
 
