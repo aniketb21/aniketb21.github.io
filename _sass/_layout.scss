@@ -257,6 +257,60 @@
  * Posts with updated margin; hence 'post2'
  */
 
+
+
+ .site2-header {
+     // border-top: 5px solid $grey-color-dark;
+     border-bottom: 1px solid $grey-color-light;
+     min-height: 56px;
+     margin-left: -2em;
+     margin-right: -2em;
+
+     // Positioning context for the mobile navigation icon
+     position: relative;
+ }
+
+ .site2-title {
+     font-size: 26px;
+     font-weight: 300;
+     line-height: 56px;
+     letter-spacing: -1px;
+     margin-bottom: 0;
+     float: left;
+     margin-left: -2em;
+     margin-right: -2em;
+
+     &,
+     &:visited {
+         color: $grey-color-dark;
+     }
+ }
+
+
+
+
+ /**
+  * Site footer
+  */
+ .site2-footer {
+     border-top: 1px solid $grey-color-light;
+     padding: $spacing-unit 0;
+     margin-left: -2em;
+     margin-right: -2em;
+ }
+
+ .footer-heading {
+     font-size: 18px;
+     margin-bottom: $spacing-unit / 2;
+     margin-left: -2em;
+     margin-right: -2em;
+ }
+
+
+
+
+
+
  .page2-content {
      padding: $spacing-unit 0;
      margin-left: -2em;
