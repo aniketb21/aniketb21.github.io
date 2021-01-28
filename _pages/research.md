@@ -7,8 +7,7 @@ permalink: /research/
 Following is a list of research projects (in no particular order) that I undertook during my time at IIT Bombay.
 <br/><br/>
 
-#### **RF Real-Time Wireless Video Transmitting System**  [(report)]({{ site.url }}/reports/EDL.pdf)
-
+### **RF Real-Time Wireless Video Transmitting System**  [(report)]({{ site.url }}/reports/EDL.pdf)
 *Guide: [Prof. Shalabh Gupta](https://www.ee.iitb.ac.in/wiki/faculty/shalabh)*
 
 Transmitting videos in real-time through obstacles like buildings is a difficult and yet an important task. Towards this end we develop an efficient lightweight system which transmits and receives PAL (Phase Alternate Line) videos in real-time and is capable of functioning robustly even in the presence of obstacles.
@@ -18,7 +17,6 @@ This was presented to the Indian Army owing to its efficacy.
 <br/><br/>
 
 **Solving IQ Imbalance in Optical Receivers**
-
 *Guide: [Prof. Shalabh Gupta](https://www.ee.iitb.ac.in/wiki/faculty/shalabh)*
 
 IQ imbalance occurs when the sine and cosine wave from the local oscillator are not perfectly 90 degrees apart or/and do not have the same amplitude. Performance for the existing joint equalization and IQ imbalance compensation was tested with changing adaptive algorithms (LMS, RLMS, NLMS), filter sizes used in the algorithm and the algorithms used for carrier phase estimation. We are exploring ways and conducting experiments to develop a method for IQ imbalance which can achieve a faster convergence to the optimal IQ imbalance angle.
