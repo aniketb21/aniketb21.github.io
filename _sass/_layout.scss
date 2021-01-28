@@ -258,16 +258,16 @@
 
 .post2-header {
     margin-bottom: $spacing-unit;
-    margin-left: 1em;
-    margin-right: 1em;
+    margin-left: -1em;
+    margin-right: -1em;
 }
 
 .post2-title {
     font-size: 32px;
     letter-spacing: -1px;
     line-height: 1;
-    margin-left: 1em;
-    margin-right: 1em;
+    margin-left: -1em;
+    margin-right: -1em;
 
     @include media-query($on-laptop) {
         font-size: 26px;
@@ -276,8 +276,8 @@
 
 .post2-content {
     margin-bottom: $spacing-unit;
-    margin-left: 1em;
-    margin-right: 1em;
+    margin-left: -1em;
+    margin-right: -1em;
 
     h2 {
         font-size: 32px;
