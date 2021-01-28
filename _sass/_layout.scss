@@ -259,21 +259,21 @@
 
  .page2-content {
      padding: $spacing-unit 0;
-     margin-left: -1em;
-     margin-right: -1em;
+     margin-left: -2em;
+     margin-right: -2em;
  }
 
  .page2-heading {
      font-size: 20px;
-     margin-left: -1em;
-     margin-right: -1em;
+     margin-left: -2em;
+     margin-right: -2em;
  }
 
  .post2-list {
      margin-left: 0;
      list-style: none;
-     margin-left: -1em;
-     margin-right: -1em;
+     margin-left: -2em;
+     margin-right: -2em;
 
      > li {
          margin-bottom: $spacing-unit;
@@ -283,15 +283,15 @@
  .post2-meta {
      font-size: $small-font-size;
      color: $grey-color;
-     margin-left: -1em;
-     margin-right: -1em;
+     margin-left: -2em;
+     margin-right: -2em;
  }
 
  .post2-link {
      display: block;
      font-size: 24px;
-     margin-left: -1em;
-     margin-right: -1em;
+     margin-left: -2em;
+     margin-right: -2em;
  }
 
 
@@ -303,16 +303,16 @@
 
 .post2-header {
     margin-bottom: $spacing-unit;
-    margin-left: -1em;
-    margin-right: -1em;
+    margin-left: -2em;
+    margin-right: -2em;
 }
 
 .post2-title {
     font-size: 32px;
     letter-spacing: -1px;
     line-height: 1;
-    margin-left: -1em;
-    margin-right: -1em;
+    margin-left: -2em;
+    margin-right: -2em;
 
     @include media-query($on-laptop) {
         font-size: 26px;
@@ -321,8 +321,8 @@
 
 .post2-content {
     margin-bottom: $spacing-unit;
-    margin-left: -1em;
-    margin-right: -1em;
+    margin-left: -2em;
+    margin-right: -2em;
 
     h2 {
         font-size: 32px;
