@@ -14,21 +14,21 @@ Transmitting videos in real-time through obstacles like buildings is a difficult
 We designed custom subsystems ranging from power boosters, low noise amplification stage to the architectures of upconverter and downconverter, along with all the matching circuits. These were then integrated on PCBs for transmitter, receiver and local oscillator.
 
 This was presented to the Indian Army owing to its efficacy.
-<!-- <br/><br/> -->
+<br/><br/>
 
 #### **Solving IQ Imbalance in Optical Receivers**
 
 *Guide: [Prof. Shalabh Gupta](https://www.ee.iitb.ac.in/wiki/faculty/shalabh)*
 
 IQ imbalance occurs when the sine and cosine wave from the local oscillator are not perfectly 90 degrees apart or/and do not have the same amplitude. Performance for the existing joint equalization and IQ imbalance compensation was tested with changing adaptive algorithms (LMS, RLMS, NLMS), filter sizes used in the algorithm and the algorithms used for carrier phase estimation. We are exploring ways and conducting experiments to develop a method for IQ imbalance which can achieve a faster convergence to the optimal IQ imbalance angle.
-<!-- <br/><br/> -->
+<br/><br/>
 
 #### **A Path to being Ground Truth Free** [(report)]({{ site.url }}/reports/DDP.pdf)
 
 *Guide: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)*
 
 Creating annotations for nuclei segmentation in histopathology images is a very effort and time intensive process. This has resulted in a lack of complete datasets (i.e. images are available but no masks). Our aim in this research project is to remove dependence on the available ground truth masks. W use synthetic image generation to achieve a baseline performance on the model used for performance analysis. We then use a interactive segmentation and synthetic image generation in a cyclic way to achieve the required performance without using the ground truth masks. Experiments are still being conducted.
-<!-- <br/><br/> -->
+<br/><br/>
 
 #### **Color Normalization for H&E Stained Images**  [(paper)](https://arxiv.org/abs/2011.15000)
 
