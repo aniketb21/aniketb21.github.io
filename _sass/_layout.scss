@@ -251,9 +251,54 @@
     }
 }
 
+
+
 /**
  * Posts with updated margin; hence 'post2'
  */
+
+ .page2-content {
+     padding: $spacing-unit 0;
+     margin-left: -1em;
+     margin-right: -1em;
+ }
+
+ .page2-heading {
+     font-size: 20px;
+     margin-left: -1em;
+     margin-right: -1em;
+ }
+
+ .post2-list {
+     margin-left: 0;
+     list-style: none;
+     margin-left: -1em;
+     margin-right: -1em;
+
+     > li {
+         margin-bottom: $spacing-unit;
+     }
+ }
+
+ .post2-meta {
+     font-size: $small-font-size;
+     color: $grey-color;
+     margin-left: -1em;
+     margin-right: -1em;
+ }
+
+ .post2-link {
+     display: block;
+     font-size: 24px;
+     margin-left: -1em;
+     margin-right: -1em;
+ }
+
+
+
+
+
+
 
 
 .post2-header {
