@@ -27,7 +27,7 @@ Thanks for stopping by!
 <table>
 <col width="100px">
 <col width="750px">
-<tr><td><b>Jan 2021:</b></td><td>Our work on Color Normalization accepted at <a href="https://biomedicalimaging.org/2021/">ISBI 2021!</a></td></tr>
+<tr><td><b>Jan 2021:</b></td><td>Our work on Color Normalization accepted at <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a>!</td></tr>
 <tr><td><b>Dec 2020:</b></td><td>Awarded the URA (<b>Undergraduate Research Award</b>) for developing a low-cost microscope (part of the low-cost optical tweezer)!</td></tr>
 <tr><td><b>Dec 2020:</b></td><td>Preprint of our work on Color Normalization is now available <a href="https://arxiv.org/abs/2011.15000">here.</a></td></tr>
 <tr><td><b>Oct 2020:</b></td><td>Submitted our work on Color Normalization to <a href="https://biomedicalimaging.org/2021/">ISBI 2021.</a></td></tr>
