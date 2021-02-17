@@ -29,7 +29,7 @@ Thanks for stopping by!
 <col width="750px">
 <tr><td><b>Jan 2021:</b></td><td>Our work on Color Normalization accepted at <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a>!</td></tr>
 <tr><td><b>Dec 2020:</b></td><td>Awarded the URA (<b>Undergraduate Research Award</b>) for developing a low-cost microscope (part of the low-cost optical tweezer)!</td></tr>
-<tr><td><b>Oct 2020:</b></td><td>Submitted our work on Color Normalization to <a href="https://biomedicalimaging.org/2021/">ISBI 2021<a/>, preprint available <a href="https://arxiv.org/abs/2011.15000">here</a>.</td></tr>
+<tr><td><b>Oct 2020:</b></td><td>Submitted our work on Color Normalization to <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a>, preprint available <a href="https://arxiv.org/abs/2011.15000">here</a>.</td></tr>
 <tr><td><b>Aug 2020:</b></td><td>Awarded the <b>Institute Academic Prize</b> for standing <b>1st in my batch</b> in year 2019-20!</td></tr>
 <tr><td><b>Nov 2019:</b></td><td>Our work in developing an <b>RF real-time video transmission system</b> was presented to the Indian Army by the lab members.</td></tr>
 <tr><td><b>Oct 2019:</b></td><td>Represented India at the <a href="https://www.temasekshophouse.org.sg/post/sharing-learning-journeys-at-tf-learn-2019-young-asian-leaders-forum">Young Asian Leaders Forum.</a></td></tr>
