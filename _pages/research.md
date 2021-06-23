@@ -14,7 +14,7 @@ Transmitting videos in real-time through obstacles like buildings is a difficult
 We designed custom subsystems ranging from power boosters, low noise amplification stage to the architectures of upconverter and downconverter, along with all the matching circuits. These were then integrated on PCBs for transmitter, receiver and local oscillator.
 
 <!-- This was presented to the Indian Army owing to its efficacy. -->
-<br/><br/>
+<!-- <br/><br/> -->
 
 #### **Solving IQ Imbalance in Optical Receivers**
 
