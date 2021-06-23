@@ -51,16 +51,16 @@ Recognizing the characters on a license plate finds use in many applications lik
 The pages of the book 'Where's Waldo?' when scanned with a very high resolution, serve as a good example of extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were then converted to HOG features. An SVM was trained at multiple scales for the final detection.
 <br/><br/>
 
-#### **Object Tracking**  [(report)]({{ site.url }}/reports/Object_Tracking_Project.pdf)
+<!-- #### **Object Tracking**  [(report)]({{ site.url }}/reports/Object_Tracking_Project.pdf)
 
 The ability to track objects has become an important element in various applications like tracking through CCTV cameras. In this project methods like mean-shift tracking and tracking using optical flow are explored. For optical flow we explore the Lucas Kanade Algorithm and its improvement using an iterative and a pyramidal algorithm. Then algorithms like the Hungarian Algorithm and a Kalman Filter (exploiting bounding boxes from YOLO) are explored.
-<br/><br/>
+<br/><br/> -->
 
 
-#### **Steganography using Wavelet Transform** [(slides)]({{ site.url }}/reports/Steganography_Project.pdf)
+<!-- #### **Steganography using Wavelet Transform** [(slides)]({{ site.url }}/reports/Steganography_Project.pdf)
 
 In today's world data security has become an important issue. Using this as a motivation we developed a system for steganographic concealing of one data into another using discrete wavelet transform. We made the process of steganography more secure by adding a novel patch based algorithm. We presented our findings at the MHRD-TEQIP-KITE workshop for knowledge incubation.
-<br/><br/>
+<br/><br/> -->
 
 #### **Iris Recognition**  [(slides)]({{ site.url }}/reports/Iris_Recog_Project.pdf)
 
