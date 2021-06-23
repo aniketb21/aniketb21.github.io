@@ -13,7 +13,7 @@ Following is a list of research projects (in no particular order) that I underto
 Transmitting videos in real-time through obstacles like buildings is a difficult and yet an important task. Towards this end we develop an efficient lightweight system which transmits and receives PAL (Phase Alternate Line) videos in real-time and is capable of functioning robustly even in the presence of obstacles.
 We designed custom subsystems ranging from power boosters, low noise amplification stage to the architectures of upconverter and downconverter, along with all the matching circuits. These were then integrated on PCBs for transmitter, receiver and local oscillator.
 
-This was presented to the Indian Army owing to its efficacy.
+<!-- This was presented to the Indian Army owing to its efficacy. -->
 <br/><br/>
 
 #### **Solving IQ Imbalance in Optical Receivers**
