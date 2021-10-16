@@ -8,9 +8,12 @@ layout: page
 
 Hello! Welcome to my homepage.
 
-My name is Aniket Bhatia (he/him/his), and I did my undergraduate from the [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
+<!-- My name is Aniket Bhatia (he/him/his), and I did my undergraduate from the [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web). -->
+ My name is Aniket Bhatia (he/him/his), and I'm pursuing my M.S. degree from [Stanford University](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://ee.stanford.edu/).
 
-I maintain a list of my research projects under the [Research]({{ site.url }}/research/) tab. Additionally, do have a look at my other projects under the [Projects]({{ site.url }}/projects/) tab.
+ I did my undergraduate in Electrical Engineering at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/).
+
+<!-- I maintain a list of my research projects under the [Research]({{ site.url }}/research/) tab. Additionally, do have a look at my other projects under the [Projects]({{ site.url }}/projects/) tab. -->
 
 
 Thanks for stopping by!
@@ -26,6 +29,7 @@ Thanks for stopping by!
 <table>
 <col width="100px">
 <col width="750px">
+
 <tr><td><b>Sept 2021:</b></td><td>Attended the Public Policy Negotiation Course at <a href="https://vpge.stanford.edu/interdisciplinary-learning/sgsi/">SGSI 2021</a>!</td></tr>
 <tr><td><b>Jan 2021:</b></td><td>Our work on Color Normalization accepted at <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a>!</td></tr>
 <tr><td><b>Dec 2020:</b></td><td>Awarded the URA (Undergraduate Research Award) for developing a low-cost microscope (part of the low-cost optical tweezer)!</td></tr>
