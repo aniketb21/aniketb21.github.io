@@ -30,7 +30,7 @@ Thanks for stopping by!
 <col width="100px">
 <col width="750px">
 
-<tr><td><b>Sept 2021:</b></td><td>Started my MS in EE at <a href="https://vpge.stanford.edu/interdisciplinary-learning/sgsi/">Stanford University</a>!</td></tr>
+<tr><td><b>Sept 2021:</b></td><td>Started my M.S. in EE at <a href="https://vpge.stanford.edu/interdisciplinary-learning/sgsi/">Stanford University</a>!</td></tr>
 <tr><td><b>Sept 2021:</b></td><td>Attended the Public Policy Negotiation Course at <a href="https://vpge.stanford.edu/interdisciplinary-learning/sgsi/">SGSI 2021</a>!</td></tr>
 <tr><td><b>Jan 2021:</b></td><td>Our work on Color Normalization accepted at <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a>!</td></tr>
 <tr><td><b>Dec 2020:</b></td><td>Awarded the URA (Undergraduate Research Award) for developing a low-cost microscope (part of the low-cost optical tweezer)!</td></tr>
