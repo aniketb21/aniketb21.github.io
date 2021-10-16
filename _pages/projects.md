@@ -4,8 +4,29 @@ title: Projects
 permalink: /projects/
 ---
 
-Following is a list of projects (in no particular order) that I did during my time at IIT Bombay.
+<!-- Following is a list of projects (in no particular order) that I did during my time at IIT Bombay. -->
 <br/><br/>
+
+#### **Product Management**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
+
+Partnered with D-Ford to explore and develop opportunities in the Electrical Vehicle space (part of the course EE 205: Product Management).
+Any new updates to this proejct will be posted here.
+<br/><br/>
+
+
+#### **License Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
+
+Recognizing the characters on a license plate finds use in many applications like for security purposes and book-keeping. In this project a system is implemented which provides a bounding box around the license plate and recognizes the characters. A customized CNN, with cross-linkages and regression layers, was used. The model was trained end-to-end, providing a better performance.
+<br/><br/>
+
+#### **Where's Waldo?**  [(report)]({{ site.url }}/reports/Waldo_Project.pdf)
+
+The pages of the book 'Where's Waldo?' when scanned with a very high resolution, serve as a good example of extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were then converted to HOG features. An SVM was trained at multiple scales for the final detection.
+<br/><br/>
+
+#### **Iris Recognition**  [(slides)]({{ site.url }}/reports/Iris_Recog_Project.pdf)
+
+Matching a person with his/her iris can be one technique for personal identification. We preprocessed the data by performing Adaptive Histogram Equalization, normalization and occlusion removal. Then we employed PCA (Principal Component Analysis) to reduce the dimensionality of the data and LDA (Linear Discriminant Analysis) to match the person with his/her iris.
 
 
 #### **ECG Amplifier** [(report)]({{ site.url }}/reports/ECG.pdf) [(video)]({{ site.url }}/reports/ECg.mp4)
@@ -41,15 +62,6 @@ In today's busy and noisy world we like to go into a different zone while listen
 Designed and implemented a 6-stage multicycle pipelined processor on an FPGA. Instructions from the Turing complete IITB-RISC instruction set were included. A logic for hazard detection, data forwarding, stalling, etc. was included in the pipeline.
 <br/><br/>
 
-#### **License Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
-
-Recognizing the characters on a license plate finds use in many applications like for security purposes and book-keeping. In this project a system is implemented which provides a bounding box around the license plate and recognizes the characters. A customized CNN, with cross-linkages and regression layers, was used. The model was trained end-to-end, providing a better performance.
-<br/><br/>
-
-#### **Where's Waldo?**  [(report)]({{ site.url }}/reports/Waldo_Project.pdf)
-
-The pages of the book 'Where's Waldo?' when scanned with a very high resolution, serve as a good example of extremely cluttered giga-pixel images. The task was to find Waldo, Wenda and the Wizard in the images by forming a bounding-box around them. We used a non-deep method for the same. Interest windows were extracted using special features like Waldo's clothes and the shape of the Wizard's cap. The interest windows were then converted to HOG features. An SVM was trained at multiple scales for the final detection.
-<br/><br/>
 
 <!-- #### **Object Tracking**  [(report)]({{ site.url }}/reports/Object_Tracking_Project.pdf)
 
@@ -62,9 +74,7 @@ The ability to track objects has become an important element in various applicat
 In today's world data security has become an important issue. Using this as a motivation we developed a system for steganographic concealing of one data into another using discrete wavelet transform. We made the process of steganography more secure by adding a novel patch based algorithm. We presented our findings at the MHRD-TEQIP-KITE workshop for knowledge incubation.
 <br/><br/> -->
 
-#### **Iris Recognition**  [(slides)]({{ site.url }}/reports/Iris_Recog_Project.pdf)
 
-Matching a person with his/her iris can be one technique for personal identification. We preprocessed the data by performing Adaptive Histogram Equalization, normalization and occlusion removal. Then we employed PCA (Principal Component Analysis) to reduce the dimensionality of the data and LDA (Linear Discriminant Analysis) to match the person with his/her iris.
 
 
 <!--
