@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 <!-- Following is a list of projects (in no particular order) that I did during my time at IIT Bombay. -->
-<br/><br/>
+<!-- <br/><br/> -->
 
 #### **Product Management**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
 
