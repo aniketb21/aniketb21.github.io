@@ -41,4 +41,4 @@ Labs often follow different protocols for H&E (Hematoxylin and Eosin) tissue cel
 
 *Guide: [Prof. Vikram Gadre](https://www.ee.iitb.ac.in/wiki/faculty/vmgadre)*
 
-Path planning finds applications in a lot of tasks like navigating robots and autonomous vehicles. However, path planning algorithms can become very computationally expensive. We develop a multiresolution path planning algorithm (path being represented by an arbitrary graph) and achieves an exponential speedup.
+Path planning finds applications in a lot of tasks like navigating robots and autonomous vehicles. However, path planning algorithms can become very computationally expensive. We develop a multiresolution path planning algorithm (path being represented by an arbitrary graph) which achieves an exponential speedup.

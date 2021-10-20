@@ -12,7 +12,7 @@ permalink: /projects/
 
 Partnered with D-Ford to explore and develop opportunities in the Electrical Vehicle space (part of the course EE 205: Product Management).
 
-Any new updates to this proejct will be posted here.
+Any new updates to this project will be posted here.
 <br/><br/>
 
 
