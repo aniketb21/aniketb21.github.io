@@ -19,7 +19,7 @@ Any new updates to this project will be posted here.
   <li> Focus: The user experience of opting into programs like <a href="https://www.ford.com/grid/dte">Ford SmartGrid</a></li>
 </ul>
 
-<!-- <br/><br/> -->
+<br/><br/>
 
 
 #### **License Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
