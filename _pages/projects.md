@@ -14,9 +14,15 @@ In a team of 6, partnered with D-Ford to explore and develop opportunities in th
 
 Any new updates to this project will be posted here.
 
-Product Opportunity Assessment: [Presentation Link]({{ site.url }}/product_management/Ford_POA.pdf) <br>
-Space Identified: EV charging in the context of the Grid <br>
-Focus: The user experience of opting into programs like [Ford SmartGrid](https://www.ford.com/grid/dte) <br> 
+<ul>
+  <li> Product Opportunity Assessment: [Presentation Link]({{ site.url }}/product_management/Ford_POA.pdf) </li>
+  <li> Space Identified: EV charging in the context of the Grid </li>
+  <li> Focus: The user experience of opting into programs like [Ford SmartGrid](https://www.ford.com/grid/dte) </li>
+</ul>
+
+
+
+
 
 
 <br/><br/>
