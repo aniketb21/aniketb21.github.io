@@ -7,8 +7,7 @@ permalink: /projects/
 <!-- Following is a list of projects (in no particular order) that I did during my time at IIT Bombay. -->
 <!-- <br/><br/> -->
 
-#### **Product Management**
-[Ongoing]
+#### **Product Management** [Ongoing]
 
 In a team of 6, partnered with D-Ford to explore and develop opportunities in the Electrical Vehicle space (part of the course EE 205: Product Management).
 
@@ -20,9 +19,7 @@ Any new updates to this project will be posted here.
   <li> Focus: The user experience of opting into programs like <a href="https://www.ford.com/grid/dte">Ford SmartGrid</a></li>
 </ul>
 
-
-
-<br/><br/>
+<!-- <br/><br/> -->
 
 
 #### **License Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
