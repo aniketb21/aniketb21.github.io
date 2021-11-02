@@ -10,9 +10,13 @@ permalink: /projects/
 #### **Product Management**
 [Ongoing]
 
-Partnered with D-Ford to explore and develop opportunities in the Electrical Vehicle space (part of the course EE 205: Product Management).
+In a team of 6, partnered with D-Ford to explore and develop opportunities in the Electrical Vehicle space (part of the course EE 205: Product Management).
 
 Any new updates to this project will be posted here.
+
+Product Opportunity Assessment: [Presentation Link]()
+Space Identified: EV charging in the context of the Grid
+Focus: The user experience of opting into programs like [Ford SmartGrid](https://www.ford.com/grid/dte)
 
 
 <br/><br/>
