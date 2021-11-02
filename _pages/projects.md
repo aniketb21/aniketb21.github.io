@@ -15,11 +15,10 @@ In a team of 6, partnered with D-Ford to explore and develop opportunities in th
 Any new updates to this project will be posted here.
 
 <ul>
-  <li> Product Opportunity Assessment: [Presentation Link]({{ site.url }}/product_management/Ford_POA.pdf) </li>
+  <li> Product Opportunity Assessment: <a href="https://aniketb21.github.io/product_management/Ford_POA">Presentation Link</a> </li>
   <li> Space Identified: EV charging in the context of the Grid </li>
-  <li> Focus: The user experience of opting into programs like [Ford SmartGrid](https://www.ford.com/grid/dte) </li>
+  <li> Focus: The user experience of opting into programs like <a href="https://www.ford.com/grid/dte">Ford SmartGrid</a></li>
 </ul>
-
 
 
 
