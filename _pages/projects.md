@@ -21,7 +21,7 @@ Any new updates to this project will be posted here.
 </ul>
 
 
-
+Product Opportunity Assessment: [Presentation Link]({{ site.url }}/product_management/Ford_POA.pdf)
 
 
 <br/><br/>
