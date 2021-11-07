@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-#### **Few-Shot Interactive Segmentation** [(report)]({{ site.url }}/reports/DDP.pdf)
+#### **Few-Shot Interactive Segmentation** [(report)]({{ site.url }}/reports/Few_Shot_Interactive_Segmentation.pdf)
 
 *Guide: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)*
 
@@ -13,7 +13,7 @@ The task of interactive segmentation has reached new heights of performance owin
 <br/><br/>
 
 
-#### **Efficient Dataset Annotator** [(report)]({{ site.url }}/reports/DDP.pdf)
+#### **Efficient Dataset Annotator** [(report)]({{ site.url }}/reports/Efficient_Dataset_Annotator.pdf)
 
 *Guide: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)*
 
