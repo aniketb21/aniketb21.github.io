@@ -5,8 +5,15 @@ permalink: /research/
 ---
 
 
+#### **Few-Shot Interactive Segmentation** [(report)]({{ site.url }}/reports/DDP.pdf)
 
-#### **A Path to being Ground Truth Free** [(report)]({{ site.url }}/reports/DDP.pdf)
+*Guide: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)*
+
+The task of interactive segmentation has reached new heights of performance owing to deep learning techniques. However, we see that the existing interactive techniques perform very poorly in data-constrained situations. We apply few-shot learning to the task of interactive segmentation and propose a novel architecture for the same. We create modules to fuse the interaction clicks with the network and to create prior masks for a specific instance in the query image. We also use test-time optimization to boost our performance. Our model achieves state-of-the-art performance on interactive segmentation tasks in a low-shot regime. To the best of our knowledge, few-shot learning has not been applied to interactive segmentation before, and, therefore, apart from our novel architecture, our very pursuit of few-shot interactive segmentation is novel.
+<br/><br/>
+
+
+#### **Efficient Dataset Annotator** [(report)]({{ site.url }}/reports/DDP.pdf)
 
 *Guide: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)*
 
