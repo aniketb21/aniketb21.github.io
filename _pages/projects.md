@@ -7,19 +7,28 @@ permalink: /projects/
 <!-- Following is a list of projects (in no particular order) that I did during my time at IIT Bombay. -->
 <!-- <br/><br/> -->
 
-#### **Product Management** [Ongoing]
+#### **Product Management**
 
-In a team of 6, partnered with D-Ford to explore and develop opportunities in the Electrical Vehicle space (part of the course EE 205: Product Management).
+In a team of 6, I partnered with D-Ford to explore and develop opportunities in the Electrical Vehicle (EV) space (part of the course EE 205: Product Management at Stanford University). The space we identified was EV charging in the context of the power grid. Currently, Ford has an extremely nascent program called the SmartGrid Reward system, which rewards people to participate in the demand-response functionality Ford offers in conjucation with the local utility companies.
 
-Any new updates to this project will be posted here.
+We developed a Minimum Viable Product (MVP) targetting the opt-in and user expereince in the SmartGrid program. The MVP is an end-to-end, hands-off, easy-to-understand, user-centric app experience that:
 
 <ul>
+  <li> increases SmartGrid participation </li>
+  <li> maintain SmartGrid participation </li>
+  <li> brings users into the Ford digital ecosystem </li>
+</ul>
+
+The presentation for the MVP can be viewed by clicking [here]({{ site.url }}/product_management/Ford_MVP.pdf).
+<br/><br/>
+
+<!-- <ul>
   <li> Currently developing a Minimum Viable Product (MVP) [details to be updated on Dec 19, 2021] </li>
   <li> Product Opportunity Assessment: <a href="https://aniketb21.github.io/product_management/Ford_POA.pdf">Presentation Link</a> </li>
   <li> Space Identified: EV charging in the context of the Grid </li>
   <li> Focus: The user experience and the opting-in process of programs like <a href="https://www.ford.com/grid/dte">Ford SmartGrid</a></li>
 </ul>
-<br/><br/>
+<br/><br/> -->
 
 
 #### **License Plate Recognition**  [(github)](https://github.com/ShubAn1901/Licence-Plate-Recognition)
