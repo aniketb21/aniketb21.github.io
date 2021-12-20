@@ -9,14 +9,16 @@ permalink: /projects/
 
 #### **Product Management**
 
-In a team of 6, I partnered with D-Ford to explore and develop opportunities in the Electrical Vehicle (EV) space (part of the course EE 205: Product Management at Stanford University). The space we identified was EV charging in the context of the power grid. Currently, Ford has an extremely nascent program called the SmartGrid Reward system, which rewards people to participate in the demand-response functionality Ford offers in conjucation with the local utility companies.
+In a team of 6, I partnered with D-Ford to explore and develop opportunities in the Electrical Vehicle (EV) space (part of the course EE 205: Product Management at Stanford University). The space we identified was EV charging in the context of the power grid.
+
+Currently, Ford has an extremely nascent program called the SmartGrid Reward system, which rewards people to participate in the demand-response functionality Ford offers in conjucation with the local utility companies.
 
 We developed a Minimum Viable Product (MVP) targetting the opt-in and user expereince in the SmartGrid program. The MVP is an end-to-end, hands-off, easy-to-understand, user-centric app experience that:
 
 <ul>
-  <li> increases SmartGrid participation </li>
-  <li> maintain SmartGrid participation </li>
-  <li> brings users into the Ford digital ecosystem </li>
+  <li> Increases SmartGrid participation </li>
+  <li> Maintains SmartGrid participation </li>
+  <li> Brings users into the Ford digital ecosystem </li>
 </ul>
 
 The presentation for the MVP can be viewed by clicking [here]({{ site.url }}/product_management/Ford_MVP.pdf).
