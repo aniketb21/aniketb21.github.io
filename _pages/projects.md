@@ -88,15 +88,15 @@ The ability to track objects has become an important element in various applicat
 <br/><br/> -->
 
 
-<!-- #### **Steganography using Wavelet Transform** [(slides)]({{ site.url }}/reports/Steganography_Project.pdf)
+#### **Steganography using Wavelet Transform** [(slides)]({{ site.url }}/reports/Steganography_Project.pdf)
 
 In today's world data security has become an important issue. Using this as a motivation we developed a system for steganographic concealing of one data into another using discrete wavelet transform. We made the process of steganography more secure by adding a novel patch based algorithm. We presented our findings at the MHRD-TEQIP-KITE workshop for knowledge incubation.
-<br/><br/> -->
+<br/><br/>
 
 
 
 
-<!--
+
 **Music Genre Classification** [(slides)]({{ site.url }}/reports/Music_Genre_Project.pdf)
 
-The project aim was to classify music into 6 distinct genres. We used the MFCC coefficients, extracted from the music, as trainable features. We compared the results using CNNs, SVM and clustering techniques. -->
+The project aim was to classify music into 6 distinct genres. We used the MFCC coefficients, extracted from the music, as trainable features. We compared the results using CNNs, SVM and clustering techniques.
