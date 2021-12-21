@@ -30,6 +30,7 @@ Thanks for stopping by!
 <col width="100px">
 <col width="750px">
 
+<tr><td><b>Dec 2021:</b></td><td>Delivered & presented Minimum Viable Product to Ford. Presentation can be viewed <a href="https://aniketb21.github.io/product_management/Ford_MVP.pdf">here</a></td></tr>
 <tr><td><b>Sept 2021:</b></td><td>Started my M.S. in EE at <a href="https://vpge.stanford.edu/interdisciplinary-learning/sgsi/">Stanford University</a>.</td></tr>
 <tr><td><b>Sept 2021:</b></td><td>Attended the Public Policy Negotiation Course at <a href="https://vpge.stanford.edu/interdisciplinary-learning/sgsi/">SGSI 2021</a>.</td></tr>
 <tr><td><b>Jan 2021:</b></td><td>Our work on Color Normalization accepted at <a href="https://biomedicalimaging.org/2021/">ISBI 2021</a>!</td></tr>
