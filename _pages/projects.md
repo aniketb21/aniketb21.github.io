@@ -82,10 +82,10 @@ Designed and implemented a 6-stage multicycle pipelined processor on an FPGA. In
 <br/><br/>
 
 
-<!-- #### **Object Tracking**  [(report)]({{ site.url }}/reports/Object_Tracking_Project.pdf)
+#### **Object Tracking**  [(report)]({{ site.url }}/reports/Object_Tracking_Project.pdf)
 
 The ability to track objects has become an important element in various applications like tracking through CCTV cameras. In this project methods like mean-shift tracking and tracking using optical flow are explored. For optical flow we explore the Lucas Kanade Algorithm and its improvement using an iterative and a pyramidal algorithm. Then algorithms like the Hungarian Algorithm and a Kalman Filter (exploiting bounding boxes from YOLO) are explored.
-<br/><br/> -->
+<br/><br/>
 
 
 #### **Steganography using Wavelet Transform** [(slides)]({{ site.url }}/reports/Steganography_Project.pdf)
