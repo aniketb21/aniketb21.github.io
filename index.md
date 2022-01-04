@@ -9,12 +9,11 @@ layout: page
 Hello! Welcome to my homepage.
 
 <!-- My name is Aniket Bhatia (he/him/his), and I did my undergraduate from the [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web). -->
- My name is Aniket Bhatia (he/him/his), and I'm pursuing my M.S. degree from [Stanford University](https://www.stanford.edu/) in the [Department of Electrical Engineering](https://ee.stanford.edu/).
+ My name is Aniket Bhatia (he/him), and I'm pursuing my M.S. degree from [Stanford University](https://www.stanford.edu/) in the [Department of Electrical Engineering](https://ee.stanford.edu/).
 
  I did my undergraduate in Electrical Engineering at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/).
 
 <!-- I maintain a list of my research projects under the [Research]({{ site.url }}/research/) tab. Additionally, do have a look at my other projects under the [Projects]({{ site.url }}/projects/) tab. -->
-
 
 Thanks for stopping by!
 <p></p>
