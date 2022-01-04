@@ -97,6 +97,6 @@ In today's world data security has become an important issue. Using this as a mo
 
 
 
-**Music Genre Classification** [(slides)]({{ site.url }}/reports/Music_Genre_Project.pdf)
+#### **Music Genre Classification** [(slides)]({{ site.url }}/reports/Music_Genre_Project.pdf)
 
 The project aim was to classify music into 6 distinct genres. We used the MFCC coefficients, extracted from the music, as trainable features. We compared the results using CNNs, SVM and clustering techniques.

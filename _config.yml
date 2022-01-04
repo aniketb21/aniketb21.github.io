@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aniketb21.github.io" # the base hostname & protocol for your site
 github_username:  aniketb21
 twitter_username: aniketb21
-linkedin_username: aniketb21
+linkedin_username: aniket-bhatia
 stackoverflow: aniketb21
 include: ['_pages']
 footer-links-active:
