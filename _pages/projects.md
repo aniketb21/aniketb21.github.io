@@ -7,7 +7,7 @@ permalink: /projects/
 <!-- Following is a list of projects (in no particular order) that I did during my time at IIT Bombay. -->
 <!-- <br/><br/> -->
 
-#### **Product Management**
+#### **Product Management** [(slides)]({{ site.url }}/product_management/Ford_MVP.pdf)
 
 In a team of 6, I partnered with Ford Motors to explore and develop opportunities in the Electric Vehicle (EV) space (part of the course EE 205: Product Management at Stanford University). The space we identified was EV charging in the context of the power grid.
 
@@ -76,7 +76,7 @@ Recognizing hand gestures has become quite an important task to build user-frien
 In today's busy and noisy world we like to go into a different zone while listening to music. However, more often than not the surrounding noise interferes us in this basic task as well. This motivates the need to have noise canceling headphones. We design an appropriate closed loop control system for achieving noise canceling, including designing appropriate gain stages and compensators.
 <br/><br/>
 
-#### **Multistage RISC Microprocessor**  [(code)](https://github.com/shubhangb97/RISC-Processor-design)
+#### **Multistage RISC Microprocessor**  [(code)](https://github.com/aniketb21/RISC-Processor-design)
 
 Designed and implemented a 6-stage multicycle pipelined processor on an FPGA. Instructions from the Turing complete IITB-RISC instruction set were included. A logic for hazard detection, data forwarding, stalling, etc. was included in the pipeline.
 <br/><br/>
