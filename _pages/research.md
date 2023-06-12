@@ -12,13 +12,13 @@ permalink: /research/
 The task of interactive segmentation has reached new heights of performance owing to deep learning techniques. However, we see that the existing interactive techniques perform very poorly in data-constrained situations. We apply few-shot learning to the task of interactive segmentation and propose a novel architecture for the same. We create modules to fuse the interaction clicks with the network and to create prior masks for a specific instance in the query image. We also use test-time optimization to boost our performance. Our model achieves state-of-the-art performance on interactive segmentation tasks in a low-shot regime. To the best of our knowledge, few-shot learning has not been applied to interactive segmentation before, and, therefore, apart from our novel architecture, our very pursuit of few-shot interactive segmentation is novel.
 <br/><br/> -->
 
-
+<!-- 
 #### **Efficient Dataset Annotator** [(report)]({{ site.url }}/reports/Efficient_Dataset_Annotator.pdf)
 
 *Guide: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)*
 
 Creating annotations for nuclei segmentation in histopathology images is a very effort and time intensive process. This has resulted in a lack of complete datasets (i.e. images are available but no masks). Our aim in this research project is to remove dependence on the available ground truth masks. W use synthetic image generation to achieve a baseline performance on the model used for performance analysis. We then use a interactive segmentation and synthetic image generation in a cyclic way to achieve the required performance without using the ground truth masks. Experiments are still being conducted.
-<br/><br/>
+<br/><br/> -->
 
 #### **Color Normalization for H&E Stained Images**  [(paper)](https://ieeexplore.ieee.org/abstract/document/9434121)
 
